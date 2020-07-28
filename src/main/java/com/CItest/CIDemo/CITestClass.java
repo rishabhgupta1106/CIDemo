@@ -2,6 +2,6 @@ package com.CItest.CIDemo;
 
 public class CITestClass {
 
-	String test = "MasterCommit";
+	String test = "MasterCommit 1";
 
 }
