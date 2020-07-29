@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CiDemoApplication {
 
 	public static void main(String[] args) {
-		System.out.print("Small change");
-		SpringApplication.run(CiDemoApplication.class, args);
+		System.out.print("Small change 2");
+		SpringApplication.run(CiDemoApplication.class, args)
 	}
 
 }
