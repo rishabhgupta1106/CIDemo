@@ -9,7 +9,7 @@ public class CiDemoApplication {
 	public static void main(String[] args) {
 		System.out.print("error removed-!@#123456");
 		SpringApplication.run(CiDemoApplication.class, args);
-		System.out.print("X branch change in yml");
+
 	}
 
 }
