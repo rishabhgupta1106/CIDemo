@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CiDemoApplication {
 
 	public static void main(String[] args) {
-		System.out.print("error removed-!@#1234");
+		System.out.print("error removed-!@#12345");
 		SpringApplication.run(CiDemoApplication.class, args);
 	}
 
