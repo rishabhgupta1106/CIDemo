@@ -8,7 +8,7 @@ public class CiDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CiDemoApplication.class, args);
-		System.out.print("X branch change 2");
+		System.out.print("X branch change in yml");
 	}
 
 }
